@@ -27,4 +27,4 @@ elif operator == "-":
     ans = val1 - val2
     print(ans)
 else:
-    print("Check your answer")
+    print("Check your input")
